@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/facebookgo/clock"
+	"github.com/benbjohnson/clock"
 )
 
 // PerSecondHasher generates hashes per second. This means you can keep track
