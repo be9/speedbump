@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/be9/speedbump"
 	"github.com/codegangsta/negroni"
 	"github.com/dustin/go-humanize"
-	"github.com/etcinit/speedbump"
 	"github.com/unrolled/render"
 	"gopkg.in/redis.v5"
 )
