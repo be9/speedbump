@@ -1,4 +1,4 @@
-module github.com/be9/speedbump
+module github.com/be9/speedbump/v2
 
 go 1.15
 

@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/be9/speedbump"
+	"github.com/be9/speedbump/v2"
 	"github.com/dustin/go-humanize"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/redis.v5"

@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/be9/speedbump"
+	"github.com/be9/speedbump/v2"
 	"github.com/codegangsta/negroni"
 	"github.com/dustin/go-humanize"
 	"github.com/unrolled/render"

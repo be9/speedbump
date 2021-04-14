@@ -3,7 +3,7 @@ package ginbump
 import (
 	"net/http"
 
-	"github.com/be9/speedbump"
+	"github.com/be9/speedbump/v2"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/redis.v5"
 )
